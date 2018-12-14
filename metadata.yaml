@@ -1,0 +1,26 @@
+_repo: George-Edmund-Street-Unpublished-Notes-and-Reprinted-Papers_58450
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Street, George Edmund
+    birthdate: 1824
+    deathdate: 1881
+    gutenberg_agent_id: '40946'
+    url: http://www.gutenberg.org/2009/agents/40946
+    wikipedia: http://en.wikipedia.org/wiki/George_Edmund_Street
+  - agent_name: King, Georgiana Goddard
+    gutenberg_agent_id: '49962'
+    url: http://www.gutenberg.org/2009/agents/49962
+description: ''
+gutenberg_issued: '2018-12-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '58450'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: George Edmund Street Unpublished Notes and Reprinted Papers
+url: http://www.gutenberg.org/ebooks/58450
